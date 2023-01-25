@@ -6,13 +6,13 @@ Web Developer and Designer
 --------------------------
 
 A passionate, diligent person who wants to learn continuously. Adapt onto any technology rapidly making myself flexible upon any tech stack.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [0808cs201124.ies@ipsacademy.org](mailto:0808cs201124.ies@ipsacademy.org)
-* 🤝  I'm open to collaborating on interesting projects
+* 💻  I'm 3rd year BTech Student in CSE.
+* 🌍  I'm based in Indore, India.
+* 👩🏻‍💻  My Passion lies in Web Design & Development.
+* 🤺  I also enjoy the thrill of Competitive Programming.
+* 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
