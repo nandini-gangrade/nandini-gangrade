@@ -39,10 +39,6 @@ A passionate, diligent person who wants to learn continuously. Adapt onto any te
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Projects
-
-<a href = "https://nandini-gangrade.github.io/Terminal-Landing-Page/" target = "_blank">Terminal Landing Page</a>
-
 
 ### Socials
 
