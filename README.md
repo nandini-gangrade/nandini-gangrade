@@ -1,14 +1,62 @@
 [![Design & Development](https://github.com/nandini-gangrade/nandini-gangrade/blob/main/ProfileBanner.png)](https://code-crusaders.epizy.com/home/)
 
-Web Developer and Designer
---------------------------
+> A final year student passionate about competitive coding, designing, and the MERN stack. 
+> I create content on YouTube on cp: youtube.com/@CodeCrusaders
+> Feel free to connect with me on LinkedIn: linkedin.com/in/nandini-gangrade/
+> And yeah! Don't hesitate to geek out about your favorite anime or share the latest music you're jamming to... I'm all ears!
 
-A passionate, diligent person who wants to learn continuously. Adapt onto any technology rapidly making myself flexible upon any tech stack.
-* 💻  I'm 3rd year BTech Student in CSE.
-* 🌍  I'm based in Indore, India.
-* 👩🏻‍💻  My Passion lies in Web Design & Development.
-* 🤺  I also enjoy the thrill of Competitive Programming.
-* 🤝  I'm open to collaborating on interesting projects.
+# Nandini Gangrade
+
+> A final year student passionate about competitive coding, designing, and the MERN stack.
+
+## About Me
+
+![Profile Picture](https://example.com/profile_picture.png)
+
+Hello there! I'm Nandini Gangrade, a dedicated and enthusiastic final year student with a strong passion for competitive coding, design, and the MERN stack. I love turning ideas into reality through clean and elegant code, and I'm always excited to learn and explore new technologies.
+
+## YouTube Channel: Code Crusaders
+
+Check out my YouTube channel, Code Crusaders, where I create content on competitive programming. Join me on my coding journey, learn new algorithms, and improve your problem-solving skills. [Subscribe now](https://youtube.com/@CodeCrusaders) to become a part of our coding community!
+
+## Let's Connect
+
+Connect with me on LinkedIn to stay updated with my latest projects and professional achievements. Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about your favorite anime or the latest music you're jamming to. I'm all ears!
+
+[![LinkedIn](https://example.com/linkedin.png)](https://linkedin.com/in/nandini-gangrade/)
+
+## Skills
+
+Here are some of the skills I specialize in:
+
+- Competitive Coding
+- Front-end Development (HTML, CSS, JavaScript)
+- MERN Stack (MongoDB, Express.js, React, Node.js)
+- UI/UX Design
+- Problem Solving
+- Data Structures and Algorithms
+
+## Projects and Repositories
+
+Check out some of my projects and repositories on GitHub:
+
+- [Project 1](https://github.com/nandini-gangrade/project1) - Brief description of the project.
+- [Project 2](https://github.com/nandini-gangrade/project2) - Brief description of the project.
+- [Project 3](https://github.com/nandini-gangrade/project3) - Brief description of the project.
+
+Feel free to explore the repositories, go through the code, and see the projects I've been working on. Contributions and feedback are always welcome!
+
+## Get in Touch
+
+I'm excited to connect with fellow developers, entrepreneurs, and tech enthusiasts. If you have any questions, project proposals, or just want to say hi, feel free to reach out:
+
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- Website: [nandinigangrade.com](https://nandinigangrade.com)
+- GitHub: [github.com/nandini-gangrade](https://github.com/nandini-gangrade)
+- LinkedIn: [linkedin.com/in/nandini-gangrade](https://linkedin.com/in/nandini-gangrade)
+
+Let's collaborate, create amazing projects, and make a positive impact together!
+
 
 ### Skills
 
