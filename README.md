@@ -1,9 +1,9 @@
 [![Design & Development](https://github.com/nandini-gangrade/nandini-gangrade/blob/main/Website%20Banner.png)](https://code-crusaders.epizy.com/home/)
-Hello there! I'm a dedicated final year student with a strong passion for competitive coding, design, and the MERN stack. I love turning ideas into reality through clean and elegant code, and I'm always excited to learn and explore new technologies.
-Calling all coding enthusiasts! Click the banner above and step into the realm of <a href="https://code-crusaders.epizy.com/home/">Code Crusaders</a>!
+>> Hello there! I'm a dedicated final year student with a strong passion for competitive coding, design, and the MERN stack. I love turning ideas into reality through clean and elegant code, and I'm always excited to learn and explore new technologies.
+>> Calling all coding enthusiasts! Click the banner above and step into the realm of <a href="https://code-crusaders.epizy.com/home/">Code Crusaders</a>!
 
 
-## <a href="https://www.linkedin.com/in/nandini-gangrade-868385227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>: Let's Connect 🤝
+## <a href="https://www.linkedin.com/in/nandini-gangrade-868385227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="30" /> : Let's Connect 🤝</a> 
 Connect with me on LinkedIn to stay updated with my latest projects and professional achievements. Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about your favorite anime or the latest music you're jamming to. I'm all ears! 🎧
 
 
@@ -20,6 +20,7 @@ Check out my YouTube channel, Code Crusaders, where I create content on competit
 ------------------------
 Feel free to explore the repositories, go through the code, and see the projects I've been working on. Contributions and feedback are always welcome!
 
+
 <!-- 
 ### Socials
 
@@ -28,7 +29,6 @@ Feel free to explore the repositories, go through the code, and see the projects
 <a href="https://www.youtube.com/@CodeCrusaders" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/nandini-gangrade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/monn_coquelicot/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nandini-gangrade-868385227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
-<!--  -->
 ### Badges
 
 <b>My GitHub Stats</b>
