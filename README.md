@@ -1,3 +1,4 @@
+## <a href="https://code-crusaders.epizy.com/home/">Website ⭐</a>
 [![Design & Development](https://github.com/nandini-gangrade/nandini-gangrade/blob/main/Website%20Banner.png)](https://code-crusaders.epizy.com/home/)
 > Hello there!👋🏻 I'm a dedicated final year student with a strong passion for competitive coding, design, and the MERN stack. I love turning ideas into reality through clean and elegant code, and I'm always excited to learn and explore new technologies. <br>
 Calling all coding enthusiasts! Click the banner above and step into the realm of <a href="https://code-crusaders.epizy.com/home/">Code Crusaders</a>🤟🏻!
@@ -12,7 +13,7 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 <br>
 <br>
 
-## <a href="https://youtube.com/@CodeCrusaders">YouTube Channel: Code Crusaders 🎥</a>
+## <a href="https://youtube.com/@CodeCrusaders">YouTube Channel 🎥</a>
 
 <div align="center">
   <a href="https://youtube.com/@CodeCrusaders">
@@ -20,9 +21,13 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
   </a>
 </div>
 
-> Check out my YouTube channel, Code Crusaders, where I create content on competitive programming. Join me on my coding journey, learn new algorithms, and improve problem-solving skills together! Subscribe now to become a part of coding community! 🔥
+> Join my coding journey on <a href="https://youtube.com/@CodeCrusaders">Code Crusaders</a>, my YouTube channel focused on competitive programming. Subscribe now to be part of the coding community!🔥
 
 <br>
+<br>
+
+----------------------------------------
+
 <br>
 
 > Feel free to explore the repositories, go through the code, and see the projects I've been working on. Contributions and feedback are always welcome!👍🏻
