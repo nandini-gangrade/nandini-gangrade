@@ -1,14 +1,16 @@
 [![Design & Development](https://github.com/nandini-gangrade/nandini-gangrade/blob/main/Website%20Banner.png)](https://code-crusaders.epizy.com/home/)
->> Hello there!👋🏻 I'm a dedicated final year student with a strong passion for competitive coding, design, and the MERN stack. I love turning ideas into reality through clean and elegant code, and I'm always excited to learn and explore new technologies. <br>
+> Hello there!👋🏻 I'm a dedicated final year student with a strong passion for competitive coding, design, and the MERN stack. I love turning ideas into reality through clean and elegant code, and I'm always excited to learn and explore new technologies. <br>
 Calling all coding enthusiasts! Click the banner above and step into the realm of <a href="https://code-crusaders.epizy.com/home/">Code Crusaders</a>🤟🏻!
 
-----------------------------------
+<br>
+<br>
 
 ## <a href="https://www.linkedin.com/in/nandini-gangrade-868385227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="30" /> : LinkedIn 🤝</a> 
-- Connect with me on LinkedIn to stay updated with my latest projects, achievements or challenges. 
-- Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about your favorite anime or the latest music you're jamming to. I'm all ears! 🎧
+> Connect with me on LinkedIn to stay updated with my latest projects, achievements or challenges. <br>
+Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about your favorite anime or the latest music you're jamming to. I'm all ears! 🎧
 
--------------------------------------
+<br>
+<br>
 
 ## <a href="https://youtube.com/@CodeCrusaders">YouTube Channel: Code Crusaders 🎥</a>
 
@@ -18,10 +20,12 @@ Calling all coding enthusiasts! Click the banner above and step into the realm o
   </a>
 </div>
 
-Check out my YouTube channel, Code Crusaders, where I create content on competitive programming. Join me on my coding journey, learn new algorithms, and improve problem-solving skills together! Subscribe now to become a part of coding community! 🔥
+> Check out my YouTube channel, Code Crusaders, where I create content on competitive programming. Join me on my coding journey, learn new algorithms, and improve problem-solving skills together! Subscribe now to become a part of coding community! 🔥
 
-------------------------
-Feel free to explore the repositories, go through the code, and see the projects I've been working on. Contributions and feedback are always welcome!👍🏻
+<br>
+<br>
+
+> Feel free to explore the repositories, go through the code, and see the projects I've been working on. Contributions and feedback are always welcome!👍🏻
 
 
 <!-- 
