@@ -4,13 +4,11 @@
 Calling all coding enthusiasts! Click the banner above and step into the realm of <a href="https://code-crusaders.epizy.com/home/">Code Crusaders</a>🤟🏻!
 
 <br>
-<br>
 
-## <a href="https://www.linkedin.com/in/nandini-gangrade-868385227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="30" /> : LinkedIn 🤝</a> 
-> Connect with me on LinkedIn to stay updated with my latest projects, achievements or challenges. <br>
+## <a href="https://www.linkedin.com/in/nandini-gangrade-868385227/" target="_blank" rel="noreferrer">LinkedIn : <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="30"/> </a> 
+> Connect with me on LinkedIn to stay updated with my latest projects, achievements or challenges 🤝 <br>
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about your favorite anime or the latest music you're jamming to. I'm all ears! 🎧
 
-<br>
 <br>
 
 ## <a href="https://youtube.com/@CodeCrusaders">YouTube Channel 🎥</a>
@@ -23,7 +21,6 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 
 > Join my coding journey on <a href="https://youtube.com/@CodeCrusaders">Code Crusaders</a>, my YouTube channel focused on competitive programming. Subscribe now to be part of the coding community!🔥
 
-<br>
 <br>
 
 ----------------------------------------
