@@ -1,4 +1,4 @@
-![Design & Development](https://github.com/nandini-gangrade/nandini-gangrade/blob/main/ProfileBanner.png)
+https://github.com/nandini-gangrade/nandini-gangrade/blob/main/ProfileBanner.png
 
 Web Developer and Designer
 --------------------------
