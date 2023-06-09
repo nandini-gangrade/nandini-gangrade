@@ -6,7 +6,7 @@ Calling all coding enthusiasts! Click the banner above and step into the realm o
 <br>
 
 ## <a href="https://www.linkedin.com/in/nandini-gangrade" target="_blank" rel="noreferrer">LinkedIn <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="20"/> </a> 
-> Connect with me on <a href="https://www.linkedin.com/in/nandini-gangrade" target="_blank" rel="noreferrer">LinkedIn></a> to stay updated with my latest projects, achievements or challenges 🤝 <br>
+> Connect with me on <a href="https://www.linkedin.com/in/nandini-gangrade" target="_blank" rel="noreferrer">LinkedIn</a> to stay updated with my latest projects, achievements or challenges 🤝 <br>
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about your favorite anime or the latest music you're jamming to. I'm all ears! 🎧
 
 <br>
