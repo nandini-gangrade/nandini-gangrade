@@ -1,4 +1,4 @@
-## <a href="https://code-crusaders.epizy.com/home/">Website ⭐</a>
+## <a href="https://www.code-crusaders.epizy.com">Website ⭐</a>
 [![Design & Development](https://github.com/nandini-gangrade/nandini-gangrade/blob/main/Website%20Banner.png)](https://www.code-crusaders.epizy.com)
 > Hello there!👋🏻 I'm a dedicated final year student with a strong passion for competitive coding, design, and the MERN stack. I love turning ideas into reality through clean and elegant code, and I'm always excited to learn and explore new technologies. <br>
 
