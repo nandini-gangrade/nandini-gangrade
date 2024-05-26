@@ -13,16 +13,16 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 
 <br>
 
-## <a href="https://youtube.com/@CodeCrusaders">YouTube Channel 🎥</a>
+## <a href="https://www.youtube.com/@CodeCrusaders?sub_confirmation=1">YouTube Channel 🎥</a>
 
 
 <div align="center">
-  <a href="https://youtube.com/@CodeCrusaders">
+  <a href="https://www.youtube.com/@CodeCrusaders?sub_confirmation=1">
     <img src="https://github.com/nandini-gangrade/nandini-gangrade/blob/main/youtube%20bannerr.png" alt="Code Crusaders Banner">
   </a>
 </div>
 
-> Join my coding journey on <a href="https://youtube.com/@CodeCrusaders">Code Crusaders</a>, my YouTube channel focused on competitive programming. Subscribe now to be part of the coding community!🔥
+> Join my coding journey on <a href="https://www.youtube.com/@CodeCrusaders?sub_confirmation=1">Code Crusaders</a>, my YouTube channel focused on competitive programming. Subscribe now to be part of the coding community!🔥
 
 <br>
 
