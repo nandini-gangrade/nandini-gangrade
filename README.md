@@ -10,13 +10,6 @@ Calling all coding enthusiasts! Click the banner above and step into the realm o
  
 <br>
 
-## <a href="https://www.linkedin.com/in/nandini-gangrade" target="_blank" rel="noreferrer">LinkedIn <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="20"/> </a> 
-
-> Connect with me on <a href="https://www.linkedin.com/in/nandini-gangrade" target="_blank" rel="noreferrer">LinkedIn</a> to stay updated with my latest projects, achievements or challenges 🤝 <br>
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about your favorite anime or the latest music you're jamming to. I'm all ears! 🎧
-
-<br>
-
 ## <a href="https://www.youtube.com/@CodeCrusaders?sub_confirmation=1">YouTube Channel 🎥</a>
 
 
@@ -27,6 +20,13 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 </div>
 
 > Join my coding journey on <a href="https://www.youtube.com/@CodeCrusaders?sub_confirmation=1">Code Crusaders</a>, my YouTube channel focused on competitive programming. Subscribe now to be part of the coding community!🔥
+
+<br>
+
+## <a href="https://www.linkedin.com/in/nandini-gangrade" target="_blank" rel="noreferrer">LinkedIn <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="20"/> </a> 
+
+> Connect with me on <a href="https://www.linkedin.com/in/nandini-gangrade" target="_blank" rel="noreferrer">LinkedIn</a> to stay updated with my latest projects, achievements or challenges 🤝 <br>
+Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about your favorite anime or the latest music you're jamming to. I'm all ears! 🎧
 
 <br>
 
