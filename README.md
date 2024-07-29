@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 I'm Nandini!</h1>
+<!-- <h1 align="center">Hi👋 I'm Nandini!</h1> -->
 
 ![](https://komarev.com/ghpvc/?username=your-github-nandini-gangrade&color=blue&style=plastic)
 
