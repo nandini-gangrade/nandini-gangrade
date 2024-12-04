@@ -1,17 +1,39 @@
-<!-- <h1 align="center">Hi👋 I'm Nandini!</h1> -->
+<h1 align="center">Hi👋 I'm Nandini!</h1> 
 
 ![](https://komarev.com/ghpvc/?username=your-github-nandini-gangrade&color=blue&style=plastic)
 
+## [Fiverr Profile - Knexora⭐](https://www.fiverr.com/knexora/design-custom-journals-and-stationery-ready-package?context_referrer=seller_page&ref_ctx_id=e46529219b1f4887a19bb8983a266a83&pckg_id=1&pos=2&seller_online=true&imp_id=ac6bd4de-9928-4068-86bb-7602bee0fbf2)  
+[![Fiverr Banner](https://github.com/nandini-gangrade/nandini-gangrade/blob/main/Gray%20Minimalist%20New%20Collection%20Banner.png)](https://www.fiverr.com/knexora/design-personalized-planner-notebook-cover-kdp-journal?context_referrer=seller_page&ref_ctx_id=721f93560f7849a190c6a1589c56e7d0&pckg_id=1&pos=3&seller_online=true&imp_id=f043597e-9a5c-47fd-92c0-64c18b6e461e)  
+
+> I'm a versatile designer dedicated to delivering creative, high-quality designs that exceed expectations. From memorable logo designs, custom planners, journals, business and stationery designs to impactful responsive websites, I specialize in transforming ideas into stunning visuals tailored to your needs.  
+
+🌟 **What I offer:**  
+- **Personalized Planners & Journals**: Covers and interiors for KDP or personal use  
+- **Logo Design**: Unique, memorable logos that represent your brand identity  
+- **Graphic Design**: Banners, posters, and creative assets for all purposes  
+- **Website Design**: Clean, responsive, and user-friendly designs  
+- **Business Cards & Stationery**: Professional, elegant, and eye-catching designs  
+
+🎯 **Why Choose Me?**  
+- Fast delivery 🚀  
+- Commitment to quality ✅  
+- Affordable pricing 💡  
+- Personalized designs that reflect your vision  
+
+> **[Let’s Collaborate on Fiverr!](https://www.fiverr.com/knexora)**  
+Have a project in mind? Message me on [Fiverr](https://www.fiverr.com/knexora), and let’s create something extraordinary together!
+> 
+<br>
+
 ## <a href="https://www.code-crusaders.epizy.com">Website ⭐</a>
 [![Design & Development](https://github.com/nandini-gangrade/nandini-gangrade/blob/main/Website%20Banner.png)](https://www.code-crusaders.epizy.com)
-> Hello there!👋🏻 I'm a dedicated final year student with a strong passion for competitive coding, design, and the MERN stack. I love turning ideas into reality through clean and elegant code, and I'm always excited to learn and explore new technologies. <br>
+> I've a strong passion for competitive coding, design, and the MERN stack. I love turning ideas into reality through clean and elegant code, and I'm always excited to learn and explore new technologies. <br>
 
 Calling all coding enthusiasts! Click the banner above and step into the realm of <a href="https://www.code-crusaders.epizy.com">Code Crusaders</a>🤟🏻!
  
 <br>
 
 ## <a href="https://www.youtube.com/@CodeCrusaders?sub_confirmation=1">YouTube Channel 🎥</a>
-
 
 <div align="center">
   <a href="https://www.youtube.com/@CodeCrusaders?sub_confirmation=1">
