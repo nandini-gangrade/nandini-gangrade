@@ -12,7 +12,12 @@
 - **Logo Design**: Unique, memorable logos that represent your brand identity  
 - **Graphic Design**: Banners, posters, and creative assets for all purposes  
 - **Website Design**: Clean, responsive, and user-friendly designs  
-- **Business Cards & Stationery**: Professional, elegant, and eye-catching designs  
+- **Business Cards & Stationery**: Professional, elegant, and eye-catching designs
+
+🚀 **Gigs:**
+- [**I will design 2 modern conceptual logo designs within 6 hours**](https://www.fiverr.com/knexora/design-2-modern-conceptual-logo-designs-within-6-hours)
+- [**I will design custom journals and stationery ready package**](https://www.fiverr.com/knexora/design-custom-journals-and-stationery-ready-package)
+- [**I will design personalized planner, notebook cover, KDP journal**](https://www.fiverr.com/knexora/design-personalized-planner-notebook-cover-kdp-journal)
 
 🎯 **Why Choose Me?**  
 - Fast delivery 🚀  
