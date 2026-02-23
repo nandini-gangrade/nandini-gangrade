@@ -27,9 +27,7 @@ Calling all coding enthusiasts! Click the banner above and step into the realm o
 > Connect with me on <a href="https://www.linkedin.com/in/nandini-gangrade" target="_blank" rel="noreferrer">LinkedIn</a> to stay updated with my latest projects, achievements or challenges 🤝 <br>
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about your favorite anime or the latest music you're jamming to. I'm all ears! 🎧
 
-<br>
-
-
+<!--
 ## [Fiverr Profile - Knexora⭐](https://www.fiverr.com/knexora/design-custom-journals-and-stationery-ready-package?context_referrer=seller_page&ref_ctx_id=e46529219b1f4887a19bb8983a266a83&pckg_id=1&pos=2&seller_online=true&imp_id=ac6bd4de-9928-4068-86bb-7602bee0fbf2)  
 [![Fiverr Banner](https://github.com/nandini-gangrade/nandini-gangrade/blob/main/Gray%20Minimalist%20New%20Collection%20Banner.png)](https://www.fiverr.com/knexora/design-personalized-planner-notebook-cover-kdp-journal?context_referrer=seller_page&ref_ctx_id=721f93560f7849a190c6a1589c56e7d0&pckg_id=1&pos=3&seller_online=true&imp_id=f043597e-9a5c-47fd-92c0-64c18b6e461e)  
 
@@ -55,9 +53,7 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 
 > **[Let’s Collaborate on Fiverr!](https://www.fiverr.com/knexora)**  
 Have a project in mind? Message me on [Fiverr](https://www.fiverr.com/knexora), and let’s create something extraordinary together!
-> 
-<br>
-
+-->
 
 
 <!--
